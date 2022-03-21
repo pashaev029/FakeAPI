@@ -1,0 +1,73 @@
+{
+  "iPhone": [
+    {
+      "id": "1",
+      "url": "https://www.apple.com/iphone-se/",
+      "title": "iPhone SE(2nd. generation)",
+      "price": "479.00",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "url": "https://www.apple.com/iphone-13-pro/",
+      "title": "iPhone 13 Pro",
+      "price": "1,099.00",
+      "quantity": 1
+    }
+  ],
+  "iPad": [
+    {
+      "id": "1",
+      "url": "https://www.apple.com/ipad-air/",
+      "title": "iPad Air(5th. generation)",
+      "price": "1,327.00",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "url": "https://www.apple.com/ipad-10.2/",
+      "title": "iPad(9th. generation)",
+      "price": "867.00",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "url": "https://www.apple.com/ipad-pro/",
+      "title": "iPad Pro 11-in.(3rd. generation)",
+      "price": "2,127.00",
+      "quantity": 1
+    }
+  ],
+  "MacBook": [
+    {
+      "id": "1",
+      "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202110?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1632788574000",
+      "title": "MacBook Pro 16-in.(2021)",
+      "price": "6,598.98",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "url": "https://www.apple.com/ipad-10.2/",
+      "title": "MacBook Air(M1, 2020)",
+      "price": "2,548.98",
+      "quantity": 1
+    }
+  ],
+  "Mac": [
+    {
+      "id": "1",
+      "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-24-blue-cto-hero-202104?wid=627&hei=566&fmt=jpeg&qlt=95&.v=1617479508000",
+      "title": "iMac 24-in.(M1, four ports, 2021)",
+      "price": "3,157.98",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-mini-hero-spacegray-202011?wid=452&hei=158&fmt=jpeg&qlt=95&.v=1603580359000",
+      "title": "Mac mini(M1, 2020)",
+      "price": "3,498.98",
+      "quantity": 1
+    }
+  ]
+}
